@@ -1,1 +1,24 @@
+body {
+  background-color: mediumseagreen;
+  color: cornsilk; 
+  font-family: Calibri, Helvetica, sans-serif;
+  margin: 5%;
+}
+h1 {
+  border: 2px solid black;
+  padding: 10px;
+  text-align: center
+}
 
+.exp-header {
+  text-transform: uppercase;
+  color: Blue;
+  border-top: 1px solid;
+}
+h3 {
+  border: 2px solid black;
+  padding: 10px;
+}
+h4 {
+  color: slateblue;
+}
