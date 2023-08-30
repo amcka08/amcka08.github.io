@@ -1,8 +1,11 @@
 body {
-  background-color: mediumseagreen;
-  color: cornsilk; 
+  background-color: DarkSeaGreen;
+  color: solid black;
   font-family: Calibri, Helvetica, sans-serif;
   margin: 5%;
+}
+div {
+  background: linear-gradient(to bottom, #339966 0%, #33cccc)
 }
 h1 {
   border: 2px solid black;
