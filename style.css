@@ -25,3 +25,9 @@ h3 {
 h4 {
   color: slateblue;
 }
+img {
+  display: block;
+  max-width: 20%;
+  float: right;
+  border: 1px solid black;
+}
